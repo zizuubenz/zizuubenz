@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 - 🖥️  This is My [MyLinkedin]((https://www.linkedin.com/in/hamza-zaidane/)).
 <br>
-- ✉️  You can contact me at [ahmed.akhiat99@gmail.com](mail:ahmed.akhiat99@gmail.com) .
+- ✉️  You can contact me at .
 <br>
 ### Skills
 
